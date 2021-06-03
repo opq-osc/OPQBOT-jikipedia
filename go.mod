@@ -1,4 +1,4 @@
-module github.com/opq-osc/jikipedia
+module github.com/opq-osc/OPQBOT-jikipedia
 
 go 1.16
 
